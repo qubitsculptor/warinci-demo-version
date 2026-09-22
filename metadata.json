@@ -1,0 +1,6 @@
+{
+  "name": "Agritech Farm Dashboard",
+  "description": "Sophisticated AgriPV farm operations management UI featuring dual-yield solar tracker control, under-canopy microclimate telemetry, CV crop issue detection, and autonomous priority optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
